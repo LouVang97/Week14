@@ -26,5 +26,5 @@ I’m used this website to help me with the USB drives installation:
 
 http://rufus.akeo.ie/ 
 
-After I installed iPXE in the USB, when I got to BIOS the iPXE is still fail. Now I still trying to figure it out.
+After I installed iPXE in the USB, when I got to BIOS the iPXE was fail. Now I still trying to figure it out.
 When I did, I’ll post the result. 
